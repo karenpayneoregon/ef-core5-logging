@@ -27,7 +27,7 @@ public enum LoggingDestination
 ```
 </br>
 
-**Usage**: reads appsettings.json
+**Usage**: reads [appsettings.json](https://github.com/karenpayneoregon/ef-core5-logging/blob/master/LogToFile/appsettings.json)
 
 ```csharp
 protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
