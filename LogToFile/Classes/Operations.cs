@@ -21,7 +21,7 @@ namespace LogToFile.Classes
                     .People
                     .Include(person => person.StudentGrades)
                     .ThenInclude(person => person.Course)
-                    .Where(x => x.PersonID == 1)
+                    .Where(person => person.PersonID == 1)
                     .ToListAsync();
 
                 return results.OrderBy(person => person.LastName).ToList();
