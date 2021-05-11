@@ -72,7 +72,7 @@ protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 # See also
 
 - Microsoft TechNet: 
-  - [.NET Core desktop application configurations (C#)](http://example.com)
+  - [.NET Core desktop application configurations (C#)](https://social.technet.microsoft.com/wiki/contents/articles/54173.net-core-desktop-application-configurations-c.aspx)
   - [Entity Framework/Entity Framework Core dynamic connection strings (C#)](https://social.technet.microsoft.com/wiki/contents/articles/54079.entity-frameworkentity-framework-core-dynamic-connection-strings-c.aspx)
   - [Entity Framework Core/Windows Forms tips and tricks](https://social.technet.microsoft.com/wiki/contents/articles/53635.entity-framework-corewindows-forms-tips-and-tricks.aspx)
 - Microsoft docs
