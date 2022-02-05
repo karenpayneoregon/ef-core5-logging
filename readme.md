@@ -5,6 +5,8 @@ Provides basic Entity Framework Core logging code samples.
 
 ---
 
+Make sure to read [ConfigurationHelper](https://github.com/karenpayneoregon/ef-core5-logging/blob/master/ConfigurationHelper/Documentation/ConfigurationHelper.md) which descibes various settings for `connection string` and `logging`.
+
 :heavy_check_mark: Read EF Core connection string from appsettings.json
 
 :heavy_check_mark: Configuring EF Core logging from appsettings.json
