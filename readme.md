@@ -1,4 +1,9 @@
-# About
+# EF Core logging in .NET Core 5 (C#)
+
+
+Provides basic Entity Framework Core logging code samples.
+
+---
 
 :heavy_check_mark: Read EF Core connection string from appsettings.json
 
